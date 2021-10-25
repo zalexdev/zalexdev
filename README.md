@@ -19,5 +19,5 @@
 
 
 <h3 align="left">Support:</h3>
-<p>https://www.donationalerts.com/r/huntmixapps</p><br><br>
+<p>https://www.donationalerts.com/r/huntmixapps</p><br>BTC: bc1q3skpz35wzxvecc2xds82gcdnhwtchqk4mkx009<br>
 
