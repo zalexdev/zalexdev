@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zalex</h1>
 <h3 align="center">A Java Android Developer that love privacy and pentest!</h3>
 
-- 🔭 I’m currently working on big secret now(https://github.com/zalexdev/pw0app)
+- 🔭 I’m currently working on big secret now(https://github.com/stryker-project/app)
 
 - 🌱 I’m currently learning **Kotlin, PHP**
 
@@ -19,5 +19,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p>https://www.donationalerts.com/r/huntmixapps</p><br>BTC: bc1q3skpz35wzxvecc2xds82gcdnhwtchqk4mkx009<br>
-
+https://buymeacoffee.com/zalex
