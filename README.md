@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://zalex.dev/](https://zalex.dev/)
 
-- 📝 I regularly write articles on [https://habr.com/ru/company/huntmixapps/blog/](https://habr.com/ru/company/huntmixapps/blog/)
 
 - 📫 How to reach me **TG: @zalexdev**
 
