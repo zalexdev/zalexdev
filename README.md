@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Kotlin, PHP**
 
-- 👨‍💻 All of my projects are available at [https://zalex.dev/](https://zalex.dev/)
-
 
 - 📫 How to reach me **TG: @zalexdev**
 
