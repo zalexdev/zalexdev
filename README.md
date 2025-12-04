@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on big secret now(https://github.com/stryker-project/app)
 
-- 🌱 I’m currently learning **Kotlin, PHP**
+- 🌱 I’m currently learning **Cat language**
 
 
 - 📫 How to reach me **TG: @zalexdev**
