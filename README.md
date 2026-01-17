@@ -1,17 +1,60 @@
-<h1 align="center">Hi 👋, I'm Zalex</h1>
-<h3 align="center">A Java Android Developer that love privacy and pentest!</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Zalexdev&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Header"/>
+</p>
 
-- 🔭 I’m currently working on big secret now(https://github.com/stryker-project/app)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Android+Security+Researcher;Mobile+Pentesting+Tools+Developer;Senior+Backend+Developer;AI+Researcher;Love+magic" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **Cat language**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zalexdev&label=Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://img.shields.io/github/followers/zalexdev?label=Followers&style=flat&color=00d9ff" alt="Followers" />
+  <a href="https://t.me/zalexdev"><img src="https://img.shields.io/badge/Telegram-@zalexdev-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://strykerdef.com"><img src="https://img.shields.io/badge/Web-strykerdef.com-FF5722?style=flat" alt="Website"/></a>
+</p>
 
+---
 
-- 📫 How to reach me **TG: @zalexdev**
+## 🔥 Featured Projects
 
-- ⚡ Fun fact **I love pizza! :)**
+| Project | Description | Stats |
+|---------|-------------|-------|
+| **[Stryker App](https://github.com/Stryker-Defense-Inc/strykerapp)** | Next-gen mobile pentesting toolkit for Android | ![Stars](https://img.shields.io/github/stars/Stryker-Defense-Inc/strykerapp?style=flat&color=yellow) ![Downloads](https://img.shields.io/badge/140K+-downloads-success?style=flat) |
+| **[WhisperPair](https://github.com/zalexdev/whisper-pair-app)** 🔥 | CVE-2025-36911 — Google Fast Pair vulnerability PoC | ![Stars](https://img.shields.io/github/stars/zalexdev/whisper-pair-app?style=flat&color=yellow) ![CVE](https://img.shields.io/badge/CVE-Critical-red?style=flat) |
+| **[Security Addon](https://github.com/zalexdev/securityaddon)** | Open-source privacy data protection | ![Stars](https://img.shields.io/github/stars/zalexdev/securityaddon?style=flat&color=yellow) |
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Stack
 
+**Mobile & Backend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDdWMTdMNyAxOUwxMiAxNkwxNyAxOUwyMCAxN1Y3TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI & ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Vectors](https://img.shields.io/badge/Vector_DB-FF6B6B?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00D9FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-9333EA?style=flat-square)
+
+---
+
+<p align="center">
+  <sub>🇺🇦 Ukraine  • <code>TRC20: TXVt15poW3yTBb7zSdaBRuyFsGCpFyg8CU</code></sub>
+</p>
