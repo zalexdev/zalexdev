@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=zalexdev&label=Views&color=0e75b6&style=flat" alt="Views" />
   <img src="https://img.shields.io/github/followers/zalexdev?label=Followers&style=flat&color=00d9ff" alt="Followers" />
   <a href="https://t.me/zalexdev"><img src="https://img.shields.io/badge/Telegram-@zalexdev-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://strykerdef.com"><img src="https://img.shields.io/badge/Web-strykerdef.com-FF5722?style=flat" alt="Website"/></a>
+  <a href="https://zalexdev.com"><img src="https://img.shields.io/badge/Web-zalexdev.com-FF5722?style=flat" alt="Website"/></a>
 </p>
 
 ---
@@ -19,8 +19,8 @@
 
 | Project | Description | Stats |
 |---------|-------------|-------|
-| **[Stryker App](https://github.com/Stryker-Defense-Inc/strykerapp)** | Next-gen mobile pentesting toolkit for Android | ![Stars](https://img.shields.io/github/stars/Stryker-Defense-Inc/strykerapp?style=flat&color=yellow) ![Downloads](https://img.shields.io/badge/140K+-downloads-success?style=flat) |
-| **[WhisperPair](https://github.com/zalexdev/whisper-pair-app)** 🔥 | CVE-2025-36911 — Google Fast Pair vulnerability PoC | ![Stars](https://img.shields.io/github/stars/zalexdev/whisper-pair-app?style=flat&color=yellow) ![CVE](https://img.shields.io/badge/CVE-Critical-red?style=flat) |
+| **[Stryker App](https://github.com/Stryker-Defense-Inc/strykerapp)** | Next-gen mobile pentesting toolkit for Android | ![Stars](https://img.shields.io/github/stars/Stryker-Defense-Inc/strykerapp?style=flat&color=yellow) ![Downloads](https://img.shields.io/badge/150K+-downloads-success?style=flat) |
+| **[WhisperPair](https://github.com/zalexdev/whisper-pair-app)**  | CVE-2025-36911 — Google Fast Pair vulnerability PoC | ![Stars](https://img.shields.io/github/stars/zalexdev/whisper-pair-app?style=flat&color=yellow) ![CVE](https://img.shields.io/badge/CVE-Critical-red?style=flat) |
 | **[Security Addon](https://github.com/zalexdev/securityaddon)** | Open-source privacy data protection | ![Stars](https://img.shields.io/github/stars/zalexdev/securityaddon?style=flat&color=yellow) |
 
 ---
