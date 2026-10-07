@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380">
+<style>
+text{font-family:ui-monospace,'JetBrains Mono','Fira Code','Cascadia Code',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.t{fill:#d7dde5} .d{fill:#7b8594} .m{fill:#4a5361}
+.y{fill:#ffd23f} .b{fill:#4c9aff} .g{fill:#5cff9d} .r{fill:#ff5c6c} .v{fill:#b28cff}
+.in{opacity:0;animation:in .01s linear forwards}
+@keyframes in{to{opacity:1}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+.sq{fill:none;stroke-width:2;opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .55s cubic-bezier(.2,1.4,.4,1) forwards}
+@keyframes pop{from{opacity:0;transform:scale(1.25)}to{opacity:1;transform:scale(1)}}
+.core{transform-box:fill-box;transform-origin:center;animation:beat 1.6s ease-in-out 3.6s infinite}
+@keyframes beat{50%{transform:scale(1.35)}}
+.spin{transform-origin:210px 200px;animation:spin 40s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+.scan{animation:scan 7s linear infinite}
+@keyframes scan{from{transform:translateY(-60px)}to{transform:translateY(440px)}}
+</style>
+<defs>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1d232c"/></pattern>
+<linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd23f" stop-opacity="0"/><stop offset=".5" stop-color="#ffd23f" stop-opacity=".045"/><stop offset="1" stop-color="#ffd23f" stop-opacity="0"/></linearGradient>
+<clipPath id="panel"><rect width="1000" height="380" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#panel)">
+<rect width="1000" height="380" fill="#0b0d10"/>
+<rect width="1000" height="380" fill="url(#dots)"/>
+<circle class="spin" cx="210" cy="200" r="172" fill="none" stroke="#1d232c" stroke-dasharray="2 9"/><rect class="sq" x="60.0" y="50.0" width="300" height="300" rx="26" stroke="#4c9aff" style="animation-delay:0.30s"/><g class="in" style="animation-delay:0.50s"><line x1="354.0" y1="60.0" x2="455" y2="77" stroke="#4c9aff" stroke-dasharray="4 4"/><circle cx="354.0" cy="60.0" r="3" fill="#4c9aff"/><text x="470" y="82" font-size="17" font-weight="700" fill="#4c9aff">Android app</text><text x="470" y="101" font-size="13" class="d">unrooted phone · plain untrusted_app</text></g><rect class="sq" x="85.0" y="75.0" width="250" height="250" rx="23" stroke="#ffd23f" style="animation-delay:0.75s"/><g class="in" style="animation-delay:0.95s"><line x1="329.0" y1="85.0" x2="455" y2="124" stroke="#ffd23f" stroke-dasharray="4 4"/><circle cx="329.0" cy="85.0" r="3" fill="#ffd23f"/><text x="470" y="129" font-size="17" font-weight="700" fill="#ffd23f">Linux 7.2 kernel</text><text x="470" y="148" font-size="13" class="d">ARCH=um SUBARCH=arm64 · runs as a process</text></g><rect class="sq" x="110.0" y="100.0" width="200" height="200" rx="20" stroke="#5cff9d" style="animation-delay:1.20s"/><g class="in" style="animation-delay:1.40s"><line x1="304.0" y1="110.0" x2="455" y2="171" stroke="#5cff9d" stroke-dasharray="4 4"/><circle cx="304.0" cy="110.0" r="3" fill="#5cff9d"/><text x="470" y="176" font-size="17" font-weight="700" fill="#5cff9d">Debian 12</text><text x="470" y="195" font-size="13" class="d">boots to dockerd in ~3 seconds</text></g><rect class="sq" x="135.0" y="125.0" width="150" height="150" rx="17" stroke="#b28cff" style="animation-delay:1.65s"/><g class="in" style="animation-delay:1.85s"><line x1="279.0" y1="135.0" x2="455" y2="218" stroke="#b28cff" stroke-dasharray="4 4"/><circle cx="279.0" cy="135.0" r="3" fill="#b28cff"/><text x="470" y="223" font-size="17" font-weight="700" fill="#b28cff">dockerd</text><text x="470" y="242" font-size="13" class="d">overlay2 · cgroup v2 · real kernel drivers</text></g><rect class="sq" x="160.0" y="150.0" width="100" height="100" rx="14" stroke="#4c9aff" style="animation-delay:2.10s"/><g class="in" style="animation-delay:2.30s"><line x1="254.0" y1="160.0" x2="455" y2="265" stroke="#4c9aff" stroke-dasharray="4 4"/><circle cx="254.0" cy="160.0" r="3" fill="#4c9aff"/><text x="470" y="270" font-size="17" font-weight="700" fill="#4c9aff">container</text><text x="470" y="289" font-size="13" class="d">pulled, started, port-forwarded to the phone</text></g><rect class="sq" x="185.0" y="175.0" width="50" height="50" rx="11" stroke="#ff5c6c" style="animation-delay:2.55s"/><g class="in" style="animation-delay:2.75s"><line x1="229.0" y1="185.0" x2="455" y2="312" stroke="#ff5c6c" stroke-dasharray="4 4"/><circle cx="229.0" cy="185.0" r="3" fill="#ff5c6c"/><text x="470" y="317" font-size="17" font-weight="700" fill="#ff5c6c">minecraft</text><text x="470" y="336" font-size="13" class="d">yes, really.</text></g><circle class="core in" cx="210" cy="200" r="7" fill="#ff5c6c" style="animation-delay:3s"/><text x="960" y="40" text-anchor="end" font-size="12" class="m">how deep does it go?</text>
+<rect class="scan" x="0" y="0" width="1000" height="60" fill="url(#scanG)"/>
+</g>
+<rect x=".5" y=".5" width="999" height="379" rx="14" fill="none" stroke="#1d232c"/>
+</svg>

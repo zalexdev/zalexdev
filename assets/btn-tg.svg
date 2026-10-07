@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52">
+<style>
+text{font-family:ui-monospace,'JetBrains Mono','Fira Code','Cascadia Code',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;}
+.t{fill:#d7dde5} .d{fill:#7b8594} .m{fill:#4a5361}
+.y{fill:#ffd23f} .b{fill:#4c9aff} .g{fill:#5cff9d} .r{fill:#ff5c6c} .v{fill:#b28cff}
+.in{opacity:0;animation:in .01s linear forwards}
+@keyframes in{to{opacity:1}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+.scan{animation:scan 7s linear infinite}
+@keyframes scan{from{transform:translateY(-60px)}to{transform:translateY(112px)}}
+</style>
+<defs>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1d232c"/></pattern>
+<linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd23f" stop-opacity="0"/><stop offset=".5" stop-color="#ffd23f" stop-opacity=".045"/><stop offset="1" stop-color="#ffd23f" stop-opacity="0"/></linearGradient>
+<clipPath id="panel"><rect width="240" height="52" rx="10"/></clipPath>
+</defs>
+<g clip-path="url(#panel)">
+<rect width="240" height="52" fill="#0b0d10"/>
+<rect width="240" height="52" fill="url(#dots)"/>
+<rect x="0" y="0" width="4" height="52" fill="#4c9aff"/><text x="22" y="22" font-size="11" class="m">telegram</text><text x="22" y="40" font-size="15" font-weight="700" fill="#4c9aff">@zalexdev</text><text x="222" y="34" text-anchor="end" font-size="16" class="d">↗</text>
+<rect class="scan" x="0" y="0" width="240" height="60" fill="url(#scanG)"/>
+</g>
+<rect x=".5" y=".5" width="239" height="51" rx="10" fill="none" stroke="#1d232c"/>
+</svg>
